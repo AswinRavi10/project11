@@ -1,0 +1,7 @@
+void main(){
+  dynamic age=20;
+print(age>25);
+print(age<25);
+print(age==25);
+print(age!=25);
+}
